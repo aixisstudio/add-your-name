@@ -31,14 +31,21 @@ Merged PRs count toward your **Pull Shark** and **Open Sourcerer** achievements.
 
 See everyone who already did it → [`Contributors.md`](Contributors.md)
 
+## 💡 What you learn doing this
 
-## ❓ Frequently Asked Questions
+1. Fork → clone → branch → commit → push → PR: the whole loop
+2. Reading a repo's contribution conventions (CONTRIBUTING.md)
+3. Handling merge conflicts (they *will* happen on a busy file)
+4. The merge notification — your first merged PR on record
 
-**How do I make my first pull request on GitHub?**
+## 🎯 Level-up path
 
-Fork the repository, edit Contributors.md, commit, and open a PR — a bot merges it automatically within seconds.
-
+| After this... | Try... |
+|---|---|
+| 1 name added | Fix a real typo in any repo |
+| First merge | Claim a `good-first-issue` label |
+| 3 merges | Your first feature PR |
+| 5 merges | Maintain something small yourself |
 
 ---
-
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall. See also: [all resources](https://aixisstudio.github.io).
+Maintained by [aixisstudio](https://github.com/aixisstudio).
