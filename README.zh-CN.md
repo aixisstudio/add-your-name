@@ -4,52 +4,50 @@
 
 你的第一个开源贡献 — 加上你的名字，自动合并
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□□□□□□□□□□□□□□□□□□□□□
 
-## 🎉 Make your first open-source contribution
+此repo是练习完整 **fork → 编辑 → 拉请求 → 合并 ** 工作流程的友好场所. 你的名字永远出现在公众贡献者名单上。
 
-This repo is a friendly place to practice the complete **fork → edit → pull request → merge** workflow. Your name goes on the public contributors list, forever.
+# # 如何运作 #
 
-## 🪜 How it works
-
-1. **Fork** this repository (top-right button)
-2. In your fork, edit [`Contributors.md`](Contributors.md) and add a line:
+1. **Fork** 此寄存器(右上键)
+2. 在叉中,编辑[`Contributors.md`](贡献者.md)并增加一行:
    ```markdown
    - [@your-username](https://github.com/your-username) — City, Country
    ```
-3. **Commit** the change on a new branch
-4. Open a **pull request** back to this repo
-5. Our **bot merges it automatically** — welcome aboard! 🎊
+3. 承诺** 新设一个分支机构的变动
+4. 打开一个**推量请求** 返回此回转
+5. 我们的机器人自动合并了 —— 欢迎登机!
 
-## 📜 Rules
+#####规则
 
-- Only `Contributors.md` changes are auto-merged
-- One line per person — don't remove others
-- Keep it clean & friendly
+- 只有 `Contributors.md` 更改是自动合并的
+- 每人一行——不要删除其他
+- 保持干净和友好
 
-## 🏆 Bonus
+##### 奖金
 
-Merged PRs count toward your **Pull Shark** and **Open Sourcerer** achievements. This is literally free progress.
+合并PR数到你的**Pull Shark**和**Open Sourcerer**的成就。 这是真正的自由进步。
 
-## 🌍 Contributors
+□ □ 贡献者
 
-See everyone who already did it → [`Contributors.md`](Contributors.md)
+见所有已经这样做的人——[`Contributors.md`](贡献者.md)
 
-## 💡 What you learn doing this
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-1. Fork → clone → branch → commit → push → PR: the whole loop
-2. Reading a repo's contribution conventions (CONTRIBUTING.md)
-3. Handling merge conflicts (they *will* happen on a busy file)
-4. The merge notification — your first merged PR on record
+1. 叉 克隆 分支 承诺 推动 PR:整个循环
+2. 阅读回购捐款公约(CONTRIBUTING.md)
+3. 处理合并冲突(它们 * 将在繁忙文件中发生)
+4. 合并通知——你的第一份合并公关记录
 
-## 🎯 Level-up path
+□ □ □ 升级路径
 
-| After this... | Try... |
+在这之后...
 |---|---|
-| 1 name added | Fix a real typo in any repo |
-| First merge | Claim a `good-first-issue` label |
-| 3 merges | Your first feature PR |
-| 5 merges | Maintain something small yourself |
+# # # # # 1 名称添加 # # # 在任何 repo # # # # # 中修复一个真实的字型 # # #
+第一次合并 申请`good-first-issue`标签
+3 合并 您的第一个功能 PR Q
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}5号合并 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}保持点小东西 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}
 
 ---
 ## 贡献
