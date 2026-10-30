@@ -4,52 +4,50 @@
 
 Tu primera contribución open source — añade tu nombre, merge automático
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
+##  inaceptable Haz tu primera contribución de código abierto
 
-## 🎉 Make your first open-source contribution
+Este repo es un lugar agradable para practicar el **fork → editar → solicitud de tira → fusión** flujo de trabajo. Tu nombre va en la lista de colaboradores públicos, para siempre.
 
-This repo is a friendly place to practice the complete **fork → edit → pull request → merge** workflow. Your name goes on the public contributors list, forever.
+## 🪜 Cómo funciona
 
-## 🪜 How it works
-
-1. **Fork** this repository (top-right button)
-2. In your fork, edit [`Contributors.md`](Contributors.md) and add a line:
+1. **Fork** este repositorio (botón derecho superior)
+2. En su tenedor, edite [`Contributors.md`](Contributors.md) y agregue una línea:
    ```markdown
    - [@your-username](https://github.com/your-username) — City, Country
    ```
-3. **Commit** the change on a new branch
-4. Open a **pull request** back to this repo
-5. Our **bot merges it automatically** — welcome aboard! 🎊
+3. **Commitir** el cambio en una nueva rama
+4. Abrir una solicitud **pull** de vuelta a este repo
+5. Nuestro **bot lo fusiona automáticamente** — bienvenido a bordo!
 
-## 📜 Rules
+Reglas
 
-- Only `Contributors.md` changes are auto-merged
-- One line per person — don't remove others
-- Keep it clean & friendly
+- Sólo los cambios de `Contributors.md` son automáticos
+- Una línea por persona - no retire a otros
+- Mantenlo limpio y amistoso
 
 ## 🏆 Bonus
 
-Merged PRs count toward your **Pull Shark** and **Open Sourcerer** achievements. This is literally free progress.
+Las relaciones públicas fusionadas cuentan con sus logros **Pull Shark** y **Open Sourcerer**. Esto es literalmente libre progreso.
 
-## 🌍 Contributors
+Contribuyentes
 
-See everyone who already did it → [`Contributors.md`](Contributors.md)
+Ver todos los que ya lo hicieron → [`Contributors.md`](Contributors.md)
 
-## 💡 What you learn doing this
+Lo que aprendes haciendo esto
 
-1. Fork → clone → branch → commit → push → PR: the whole loop
-2. Reading a repo's contribution conventions (CONTRIBUTING.md)
-3. Handling merge conflicts (they *will* happen on a busy file)
-4. The merge notification — your first merged PR on record
+1. Fork → clone → ram → commit → push → PR: todo el bucle
+2. Leer las convenciones de contribución de un repo (CONTRIBUTING.md)
+3. Manejo de conflictos de fusión (ellos * ocurrirán en un archivo ocupado)
+4. La notificación de fusión - su primer PR fusionado en el registro
 
-## 🎯 Level-up path
+## 🎯 Camino hacia arriba
 
-| After this... | Try... |
+Después de esto...
 |---|---|
-| 1 name added | Fix a real typo in any repo |
-| First merge | Claim a `good-first-issue` label |
-| 3 merges | Your first feature PR |
-| 5 merges | Maintain something small yourself |
+Silencio 1 nombre añadido Silencio Fijar un verdadero typo en cualquier reposo Silencio
+Silencio Primera fusión ← Reclamar una etiqueta `good-first-issue`
+Silencio 3 fusiones Silencio Su primera característica PR Silencio
+Silencio 5 fusiones Silencio Mantener algo pequeño usted mismo
 
 ---
 ## Contribuir
