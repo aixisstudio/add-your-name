@@ -4,52 +4,50 @@
 
 初めてのオープンソース貢献 — 名前を追加して自動マージ
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## Slack 初のオープンソースのコントリビューションを作る
 
-## 🎉 Make your first open-source contribution
+このリポジトリは、完全な**フォーク→編集→プルリクエスト→マージ**ワークフローを実践するためのフレンドリーな場所です。 あなたの名前は、永続的に公開コントリビューターリストに行きます。
 
-This repo is a friendly place to practice the complete **fork → edit → pull request → merge** workflow. Your name goes on the public contributors list, forever.
+##  How 使い方
 
-## 🪜 How it works
-
-1. **Fork** this repository (top-right button)
-2. In your fork, edit [`Contributors.md`](Contributors.md) and add a line:
+1.**Fork** このリポジトリ(右上のボタン)
+2. フォークで、[`Contributors.md`](Contributors.md)を編集し、行を追加します。
    ```markdown
    - [@your-username](https://github.com/your-username) — City, Country
    ```
-3. **Commit** the change on a new branch
-4. Open a **pull request** back to this repo
-5. Our **bot merges it automatically** — welcome aboard! 🎊
+3。**Commit**新しいブランチの変更
+4。 このリポジトリに戻る**プルリクエストを開く
+5。 私たちの**ボットは、自動的にマージします** - 歓迎のボード!
 
-## 📜 Rules
+##  Rules 規則
 
-- Only `Contributors.md` changes are auto-merged
-- One line per person — don't remove others
-- Keep it clean & friendly
+- `Contributors.md` の変更のみ自動マージ
+- 1人1行 — 他人を削除しない
+- 清潔で親切に保つ
 
-## 🏆 Bonus
+##ボーナス
 
-Merged PRs count toward your **Pull Shark** and **Open Sourcerer** achievements. This is literally free progress.
+あなたの**Pull Shark**と**Open Sourcerer**の達成に向けて、マージPRがカウントされます。 これは文字通り自由進展です。
 
-## 🌍 Contributors
+## 貢献者
 
-See everyone who already did it → [`Contributors.md`](Contributors.md)
+[`Contributors.md`](Contributors.md) を既に行なったすべての人を見る
 
-## 💡 What you learn doing this
+## ✔ これをやりたいこと
 
-1. Fork → clone → branch → commit → push → PR: the whole loop
-2. Reading a repo's contribution conventions (CONTRIBUTING.md)
-3. Handling merge conflicts (they *will* happen on a busy file)
-4. The merge notification — your first merged PR on record
+1. フォーク → クローン → ブランチ → コミット → プッシュ → PR: 全ループ
+2. リポジトリのコントリビューティング条約(CONTRIBUTING.md)を読み込む
+3. 紛争をマージする処理(*will*は忙しいファイルで起こる)
+4。 合併通知 — レコードの最初のマージPR
 
-## 🎯 Level-up path
+## レベルアップパス
 
-| After this... | Try... |
+| お問い合わせ |
 |---|---|
-| 1 name added | Fix a real typo in any repo |
-| First merge | Claim a `good-first-issue` label |
-| 3 merges | Your first feature PR |
-| 5 merges | Maintain something small yourself |
+| 1件名追加 | どのレポにも当てはまる |
+| ファーストマージ | `good-first-issue` ラベルを主張 |
+| 3つのマージ | はじめてのPR |
+| 5つのマージ | 自分だけの小さなものを維持する |
 
 ---
 ## 貢献
