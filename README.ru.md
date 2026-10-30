@@ -4,52 +4,50 @@
 
 Твой первый вклад в open source — добавь имя, автомерж
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+##Сделай свой первый вклад с открытым исходным кодом
 
-## 🎉 Make your first open-source contribution
+Это РЕПО является дружественным местом для практики полного **fork → edit → pull request → merge** workflow. Ваше имя навсегда останется в списке авторов.
 
-This repo is a friendly place to practice the complete **fork → edit → pull request → merge** workflow. Your name goes on the public contributors list, forever.
+###Как это работает
 
-## 🪜 How it works
-
-1. **Fork** this repository (top-right button)
-2. In your fork, edit [`Contributors.md`](Contributors.md) and add a line:
+1. **Вилка** это хранилище (вверху справа кнопка)
+2. В форке отредактируйте [`Contributors.md`] (Contributors.md) и добавьте строку:
    ```markdown
    - [@your-username](https://github.com/your-username) — City, Country
    ```
-3. **Commit** the change on a new branch
-4. Open a **pull request** back to this repo
-5. Our **bot merges it automatically** — welcome aboard! 🎊
+3. ** Совершите** изменение в новой ветке
+4.Откройте запрос **pull** обратно в репо
+5.Наш **бот автоматически сливает его** — добро пожаловать на борт!
 
-## 📜 Rules
+###Правила
 
-- Only `Contributors.md` changes are auto-merged
-- One line per person — don't remove others
-- Keep it clean & friendly
+Только изменения `Contributors.md` автоматически сливаются
+Одна строка на человека — не удаляйте других
+Держите его чистым и дружелюбным
 
-## 🏆 Bonus
+## Бонус
 
-Merged PRs count toward your **Pull Shark** and **Open Sourcerer** achievements. This is literally free progress.
+Объединённые PR рассчитывают на ваши достижения **Pull Shark** и **Open Sourcerer**. Это буквально свободный прогресс.
 
-## 🌍 Contributors
+## but Вкладчики
 
-See everyone who already did it → [`Contributors.md`](Contributors.md)
+Посмотрите на всех, кто уже сделал это [`Contributors.md`]
 
-## 💡 What you learn doing this
+##  What Чему вы научитесь
 
-1. Fork → clone → branch → commit → push → PR: the whole loop
-2. Reading a repo's contribution conventions (CONTRIBUTING.md)
-3. Handling merge conflicts (they *will* happen on a busy file)
-4. The merge notification — your first merged PR on record
+1.Вилка → клон → ветка → совершить → нажать → PR: весь цикл
+2. Чтение конвенций о вкладе РЕПО (CONTRIBUTING.md)
+3. Обработка конфликтов слияния (они *будут* происходить в занятом файле)
+4.Уведомление о слиянии - ваш первый объединенный PR в записи
 
-## 🎯 Level-up path
+##  path Путь повышения уровня
 
-| After this... | Try... |
+После этого... Попробуй...
 |---|---|
-| 1 name added | Fix a real typo in any repo |
-| First merge | Claim a `good-first-issue` label |
-| 3 merges | Your first feature PR |
-| 5 merges | Maintain something small yourself |
+| 1 имя добавлено | Исправить настоящую опечатку в любом репо |
+Первое слияние - Заявить `good-first-issue`
+| 3 слияния | Ваша первая функция PR |
+| 5 слияний | Сохранить что-то маленькое
 
 ---
 ## Участие
