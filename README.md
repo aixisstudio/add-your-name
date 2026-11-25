@@ -50,7 +50,7 @@ See everyone who already did it → [`Contributors.md`](Contributors.md)
 | 5 merges | Maintain something small yourself |
 
 ---
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
+Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.
 
 ## License
 
